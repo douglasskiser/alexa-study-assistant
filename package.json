@@ -1,0 +1,19 @@
+{
+  "name": "alexa-study-assistant",
+  "version": "1.0.0",
+  "description": "A set of lambda functions for an Alexa study assistant that reads audio files from dynamo db.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasskiser/alexa-study-assistant.git"
+  },
+  "author": "Douglass Kiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasskiser/alexa-study-assistant/issues"
+  },
+  "homepage": "https://github.com/douglasskiser/alexa-study-assistant#readme"
+}
